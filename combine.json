@@ -1,0 +1,8 @@
+{
+    "src":[
+	"aa.lua",
+	"bb.lua"
+    ],
+    "target":"main.lua"
+
+}

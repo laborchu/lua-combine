@@ -1,0 +1,12 @@
+{
+  "name": "lua-combine",
+  "version": "0.0.1",
+  "description": "合并lua文件",
+  "author": "hulibo",
+  "dependencies": {
+    "commander": "^2.9.0"
+  },
+  "bin": {
+    "lua-combine": "lua-combine.js"
+  }
+}
